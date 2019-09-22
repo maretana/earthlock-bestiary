@@ -1,5 +1,5 @@
 import React from 'react'
-import bestiary from './data/beastiary.json'
+import bestiary from './data/bestiary.json'
 import BeastCard from './components/BeastCard'
 
 import './App.scss'
