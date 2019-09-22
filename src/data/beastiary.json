@@ -1,0 +1,246 @@
+[
+    {
+      "key": "BanditTrapper",
+      "name": "Bandit Trapper"
+    },
+    {
+      "key": "BanditThug",
+      "name": "Bandit Thug"
+    },
+    {
+      "key": "NanuchDevotee",
+      "name": "Nanuch Devotee"
+    },
+    {
+      "key": "NanuchCultMember",
+      "name": "Nanuch Cult Member"
+    },
+    {
+      "key": "GuardessOfShells",
+      "name": "Guardess of Shells"
+    },
+    {
+      "key": "GuardOfShells",
+      "name": "Guard of Shells"
+    },
+    {
+      "key": "ZaberianWarden",
+      "name": "Zaberian Warden"
+    },
+    {
+      "key": "ZaberianDefender",
+      "name": "Zaberian Defender"
+    },
+    {
+      "key": "RedBarghest",
+      "name": "Red Barghest"
+    },
+    {
+      "key": "BlueBarghest",
+      "name": "Blue Barghest"
+    },
+    {
+      "key": "Simoorg",
+      "name": "Simoorg"
+    },
+    {
+      "key": "CherbyFire",
+      "name": "Cherby Fire"
+    },
+    {
+      "key": "BitingRooter",
+      "name": "Biting Rooter"
+    },
+    {
+      "key": "SpittingRooter",
+      "name": "Spitting Rooter"
+    },
+    {
+      "key": "Chompino",
+      "name": "Chompino"
+    },
+    {
+      "key": "BlueQuadragon",
+      "name": "Blue Quadragon"
+    },
+    {
+      "key": "GreenQuadragon",
+      "name": "Green Quadragon"
+    },
+    {
+      "key": "Quadragon",
+      "name": "Quadragon"
+    },
+    {
+      "key": "Kuda",
+      "name": "Kuda"
+    },
+    {
+      "key": "BlueAmriLantern",
+      "name": "Blue Amri Lantern"
+    },
+    {
+      "key": "RedAmriLantern",
+      "name": "Red Amri Lantern"
+    },
+    {
+      "key": "YellowAmriLantern",
+      "name": "Yellow Amri Lantern"
+    },
+    {
+      "key": "DarkMirror",
+      "name": "Dark Mirror"
+    },
+    {
+      "key": "EarthWaterMirror",
+      "name": "Earth Water Mirror"
+    },
+    {
+      "key": "ElectroAirMirror",
+      "name": "Electro Air Mirror"
+    },
+    {
+      "key": "FireIceMirror",
+      "name": "Fire Ice Mirror"
+    },
+    {
+      "key": "FireDjinn",
+      "name": "Fire Djinn"
+    },
+    {
+      "key": "BoneStag",
+      "name": "Bone Stag"
+    },
+    {
+      "key": "SandBeetle",
+      "name": "Sand Beetle"
+    },
+    {
+      "key": "Sparktank",
+      "name": "Sparktank"
+    },
+    {
+      "key": "Shimmerbug",
+      "name": "Shimmerbug"
+    },
+    {
+      "key": "Glacierbug",
+      "name": "Glacierbug"
+    },
+    {
+      "key": "DesertCrabler",
+      "name": "Desert Crabler"
+    },
+    {
+      "key": "OnyxCrabler",
+      "name": "Onyx Crabler"
+    },
+    {
+      "key": "Cocotoo",
+      "name": "Cocotoo"
+    },
+    {
+      "key": "Scamp",
+      "name": "Scamp"
+    },
+    {
+      "key": "ConductorBot",
+      "name": "Conductor Bot"
+    },
+    {
+      "key": "MinerBot",
+      "name": "Miner Bot"
+    },
+    {
+      "key": "DroogoBlaster",
+      "name": "Droogo Blaster"
+    },
+    {
+      "key": "DroogoBrawler",
+      "name": "Droogo Brawler"
+    },
+    {
+      "key": "DroogoShaman",
+      "name": "Droogo Shaman"
+    },
+    {
+      "key": "DroogoWarrior",
+      "name": "Droogo Warrior"
+    },
+    {
+      "key": "InfestedCultist",
+      "name": "Infested Cultist"
+    },
+    {
+      "key": "InfestedDrifter",
+      "name": "Infested Drifter"
+    },
+    {
+      "key": "Goblinator",
+      "name": "Goblinator"
+    },
+    {
+      "key": "Goblineer",
+      "name": "Goblineer"
+    },
+    {
+      "key": "Gobringer",
+      "name": "Gobringer"
+    },
+    {
+      "key": "Ympkin",
+      "name": "Ympkin"
+    },
+    {
+      "key": "Plaspapa",
+      "name": "Plaspapa"
+    },
+    {
+      "key": "Plasmama",
+      "name": "Plasmama"
+    },
+    {
+      "key": "LittleMarvelBlue",
+      "name": "Little Marvel Blue"
+    },
+    {
+      "key": "LittleMarvelRed",
+      "name": "Little Marvel Red"
+    },
+    {
+      "key": "LittleMarvelYellow",
+      "name": "Little Marvel Yellow"
+    },
+    {
+      "key": "ThunderDjinn",
+      "name": "Thunder Djinn"
+    },
+    {
+      "key": "CherbyPoison",
+      "name": "Cherby Poison"
+    },
+    {
+      "key": "IceChompino",
+      "name": "Ice Chompino"
+    },
+    {
+      "key": "Nafnlaus",
+      "name": "Nafnlaus (Blue)"
+    },
+    {
+      "key": "Nafnlaus",
+      "name": "Nafnlaus (Regular)"
+    },
+    {
+      "key": "CoastBeetle",
+      "name": "Coast Beetle"
+    },
+    {
+      "key": "GigaStag",
+      "name": "Giga Stag"
+    },
+    {
+      "key": "Mushrima",
+      "name": "Mushrima"
+    }
+  ]
