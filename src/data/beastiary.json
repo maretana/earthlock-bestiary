@@ -1,246 +1,719 @@
 [
-    {
-      "key": "BanditTrapper",
-      "name": "Bandit Trapper"
-    },
-    {
-      "key": "BanditThug",
-      "name": "Bandit Thug"
-    },
-    {
-      "key": "NanuchDevotee",
-      "name": "Nanuch Devotee"
-    },
-    {
-      "key": "NanuchCultMember",
-      "name": "Nanuch Cult Member"
-    },
-    {
-      "key": "GuardessOfShells",
-      "name": "Guardess of Shells"
-    },
-    {
-      "key": "GuardOfShells",
-      "name": "Guard of Shells"
-    },
-    {
-      "key": "ZaberianWarden",
-      "name": "Zaberian Warden"
-    },
-    {
-      "key": "ZaberianDefender",
-      "name": "Zaberian Defender"
-    },
-    {
-      "key": "RedBarghest",
-      "name": "Red Barghest"
-    },
-    {
-      "key": "BlueBarghest",
-      "name": "Blue Barghest"
-    },
-    {
-      "key": "Simoorg",
-      "name": "Simoorg"
-    },
-    {
-      "key": "CherbyFire",
-      "name": "Cherby Fire"
-    },
-    {
-      "key": "BitingRooter",
-      "name": "Biting Rooter"
-    },
-    {
-      "key": "SpittingRooter",
-      "name": "Spitting Rooter"
-    },
-    {
-      "key": "Chompino",
-      "name": "Chompino"
-    },
-    {
-      "key": "BlueQuadragon",
-      "name": "Blue Quadragon"
-    },
-    {
-      "key": "GreenQuadragon",
-      "name": "Green Quadragon"
-    },
-    {
-      "key": "Quadragon",
-      "name": "Quadragon"
-    },
-    {
-      "key": "Kuda",
-      "name": "Kuda"
-    },
-    {
-      "key": "BlueAmriLantern",
-      "name": "Blue Amri Lantern"
-    },
-    {
-      "key": "RedAmriLantern",
-      "name": "Red Amri Lantern"
-    },
-    {
-      "key": "YellowAmriLantern",
-      "name": "Yellow Amri Lantern"
-    },
-    {
-      "key": "DarkMirror",
-      "name": "Dark Mirror"
-    },
-    {
-      "key": "EarthWaterMirror",
-      "name": "Earth Water Mirror"
-    },
-    {
-      "key": "ElectroAirMirror",
-      "name": "Electro Air Mirror"
-    },
-    {
-      "key": "FireIceMirror",
-      "name": "Fire Ice Mirror"
-    },
-    {
-      "key": "FireDjinn",
-      "name": "Fire Djinn"
-    },
-    {
-      "key": "BoneStag",
-      "name": "Bone Stag"
-    },
-    {
-      "key": "SandBeetle",
-      "name": "Sand Beetle"
-    },
-    {
-      "key": "Sparktank",
-      "name": "Sparktank"
-    },
-    {
-      "key": "Shimmerbug",
-      "name": "Shimmerbug"
-    },
-    {
-      "key": "Glacierbug",
-      "name": "Glacierbug"
-    },
-    {
-      "key": "DesertCrabler",
-      "name": "Desert Crabler"
-    },
-    {
-      "key": "OnyxCrabler",
-      "name": "Onyx Crabler"
-    },
-    {
-      "key": "Cocotoo",
-      "name": "Cocotoo"
-    },
-    {
-      "key": "Scamp",
-      "name": "Scamp"
-    },
-    {
-      "key": "ConductorBot",
-      "name": "Conductor Bot"
-    },
-    {
-      "key": "MinerBot",
-      "name": "Miner Bot"
-    },
-    {
-      "key": "DroogoBlaster",
-      "name": "Droogo Blaster"
-    },
-    {
-      "key": "DroogoBrawler",
-      "name": "Droogo Brawler"
-    },
-    {
-      "key": "DroogoShaman",
-      "name": "Droogo Shaman"
-    },
-    {
-      "key": "DroogoWarrior",
-      "name": "Droogo Warrior"
-    },
-    {
-      "key": "InfestedCultist",
-      "name": "Infested Cultist"
-    },
-    {
-      "key": "InfestedDrifter",
-      "name": "Infested Drifter"
-    },
-    {
-      "key": "Goblinator",
-      "name": "Goblinator"
-    },
-    {
-      "key": "Goblineer",
-      "name": "Goblineer"
-    },
-    {
-      "key": "Gobringer",
-      "name": "Gobringer"
-    },
-    {
-      "key": "Ympkin",
-      "name": "Ympkin"
-    },
-    {
-      "key": "Plaspapa",
-      "name": "Plaspapa"
-    },
-    {
-      "key": "Plasmama",
-      "name": "Plasmama"
-    },
-    {
-      "key": "LittleMarvelBlue",
-      "name": "Little Marvel Blue"
-    },
-    {
-      "key": "LittleMarvelRed",
-      "name": "Little Marvel Red"
-    },
-    {
-      "key": "LittleMarvelYellow",
-      "name": "Little Marvel Yellow"
-    },
-    {
-      "key": "ThunderDjinn",
-      "name": "Thunder Djinn"
-    },
-    {
-      "key": "CherbyPoison",
-      "name": "Cherby Poison"
-    },
-    {
-      "key": "IceChompino",
-      "name": "Ice Chompino"
-    },
-    {
-      "key": "Nafnlaus",
-      "name": "Nafnlaus (Blue)"
-    },
-    {
-      "key": "Nafnlaus",
-      "name": "Nafnlaus (Regular)"
-    },
-    {
-      "key": "CoastBeetle",
-      "name": "Coast Beetle"
-    },
-    {
-      "key": "GigaStag",
-      "name": "Giga Stag"
-    },
-    {
-      "key": "Mushrima",
-      "name": "Mushrima"
-    }
-  ]
+  {
+    "name": "Bandit Trapper",
+    "key": "BanditTrapper",
+    "type": "Human",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Bandit Thug",
+    "key": "BanditThug",
+    "type": "Human",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Nanuch Devotee",
+    "key": "NanuchDevotee",
+    "type": "Human",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Nanuch Cult Member",
+    "key": "NanuchCultMember",
+    "type": "Human",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Guardess Of Shells",
+    "key": "GuardessOfShells",
+    "type": "Human",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Guard Of Shells",
+    "key": "GuardOfShells",
+    "type": "Human",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Zaberian Warden",
+    "key": "ZaberianWarden",
+    "type": "Human",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Zaberian Defender",
+    "key": "ZaberianDefender",
+    "type": "Human",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Red Barghest",
+    "key": "RedBarghest",
+    "type": "Beast",
+    "strongAgainst": [
+      "Fire"
+    ],
+    "weakAgainst": [
+      "Ice"
+    ]
+  },
+  {
+    "name": "Blue Barghest",
+    "key": "BlueBarghest",
+    "type": "Beast",
+    "strongAgainst": [
+      "Ice"
+    ],
+    "weakAgainst": [
+      "Fire"
+    ]
+  },
+  {
+    "name": "Simoorg",
+    "key": "Simoorg",
+    "type": "Beast",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Cherby Fire",
+    "key": "CherbyFire",
+    "type": "Beast",
+    "strongAgainst": [
+      "Fire"
+    ],
+    "weakAgainst": [
+      "Ice"
+    ]
+  },
+  {
+    "name": "Biting Rooter",
+    "key": "BitingRooter",
+    "type": "Plant",
+    "strongAgainst": [
+      "Water",
+      "Earth",
+      "Piercing"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Slashing",
+      "Exploding"
+    ]
+  },
+  {
+    "name": "Spitting Rooter",
+    "key": "SpittingRooter",
+    "type": "Plant",
+    "strongAgainst": [
+      "Water",
+      "Earth",
+      "Piercing"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Slashing",
+      "Exploding"
+    ]
+  },
+  {
+    "name": "Chompino",
+    "key": "Chompino",
+    "type": "Plant",
+    "strongAgainst": [
+      "Water",
+      "Earth",
+      "Piercing"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Slashing",
+      "Exploding"
+    ]
+  },
+  {
+    "name": "Blue Quadragon",
+    "key": "BlueQuadragon",
+    "type": "Dragon",
+    "strongAgainst": [
+      "Ice"
+    ],
+    "weakAgainst": [
+      "Fire"
+    ]
+  },
+  {
+    "name": "Green Quadragon",
+    "key": "GreenQuadragon",
+    "type": "Dragon",
+    "strongAgainst": [
+      "Fire"
+    ],
+    "weakAgainst": [
+      "Air"
+    ]
+  },
+  {
+    "name": "Quadragon",
+    "key": "Quadragon",
+    "type": "Dragon",
+    "strongAgainst": [
+      "Fire",
+      "Exploding"
+    ],
+    "weakAgainst": [
+      "Water",
+      "Piercing"
+    ]
+  },
+  {
+    "name": "Kuda",
+    "key": "Kuda",
+    "type": "Beast",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Blue Amri Lantern",
+    "key": "BlueAmriLantern",
+    "type": "Elemental",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Red Amri Lantern",
+    "key": "RedAmriLantern",
+    "type": "Elemental",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Yellow Amri Lantern",
+    "key": "YellowAmriLantern",
+    "type": "Elemental",
+    "strongAgainst": [
+      "Fire"
+    ],
+    "weakAgainst": [
+      "Ice"
+    ]
+  },
+  {
+    "name": "Dark Mirror",
+    "key": "DarkMirror",
+    "type": "Elemental",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Earth Water Mirror",
+    "key": "EarthWaterMirror",
+    "type": "Elemental",
+    "strongAgainst": [
+      "Earth",
+      "Water"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Electro Air Mirror",
+    "key": "ElectroAirMirror",
+    "type": "Elemental",
+    "strongAgainst": [
+      "Electric",
+      "Air"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Fire Ice Mirror",
+    "key": "FireIceMirror",
+    "type": "Elemental",
+    "strongAgainst": [
+      "Fire",
+      "Ice"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Fire Djinn",
+    "key": "FireDjinn",
+    "type": "Elemental",
+    "strongAgainst": [
+      "Fire"
+    ],
+    "weakAgainst": [
+      "Water"
+    ]
+  },
+  {
+    "name": "Bone Stag",
+    "key": "BoneStag",
+    "type": "Insect",
+    "strongAgainst": [
+      "Slashing",
+      "Exploding"
+    ],
+    "weakAgainst": [
+      "Piercing"
+    ]
+  },
+  {
+    "name": "Sand Beetle",
+    "key": "SandBeetle",
+    "type": "Insect",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Piercing",
+      "Crushing"
+    ]
+  },
+  {
+    "name": "Sparktank",
+    "key": "Sparktank",
+    "type": "Insect",
+    "strongAgainst": [
+      "Electric"
+    ],
+    "weakAgainst": [
+      "Earth"
+    ]
+  },
+  {
+    "name": "Shimmerbug",
+    "key": "Shimmerbug",
+    "type": "Insect",
+    "strongAgainst": [
+      "Fire"
+    ],
+    "weakAgainst": [
+      "Water"
+    ]
+  },
+  {
+    "name": "Glacierbug",
+    "key": "Glacierbug",
+    "type": "Insect",
+    "strongAgainst": [
+      "Ice"
+    ],
+    "weakAgainst": [
+      "Fire"
+    ]
+  },
+  {
+    "name": "Desert Crabler",
+    "key": "DesertCrabler",
+    "type": "Shell",
+    "strongAgainst": [
+      "Slashing",
+      "Exploding"
+    ],
+    "weakAgainst": [
+      "Piercing"
+    ]
+  },
+  {
+    "name": "Onyx Crabler",
+    "key": "OnyxCrabler",
+    "type": "Shell",
+    "strongAgainst": [
+      "Slashing",
+      "Exploding"
+    ],
+    "weakAgainst": [
+      "Piercing"
+    ]
+  },
+  {
+    "name": "Cocotoo",
+    "key": "Cocotoo",
+    "type": "Insect",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Exploding",
+      "Magical"
+    ]
+  },
+  {
+    "name": "Scamp",
+    "key": "Scamp",
+    "type": "Insect",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Exploding",
+      "Magical"
+    ]
+  },
+  {
+    "name": "Conductor Bot",
+    "key": "ConductorBot",
+    "type": "Mech",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Electric"
+    ]
+  },
+  {
+    "name": "Miner Bot",
+    "key": "MinerBot",
+    "type": "Mech",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Electric"
+    ]
+  },
+  {
+    "name": "Droogo Blaster",
+    "key": "DroogoBlaster",
+    "type": "Humanoid",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Droogo Brawler",
+    "key": "DroogoBrawler",
+    "type": "Humanoid",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Droogo Shaman",
+    "key": "DroogoShaman",
+    "type": "Humanoid",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Droogo Warrior",
+    "key": "DroogoWarrior",
+    "type": "Humanoid",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Infested Cultist",
+    "key": "InfestedCultist",
+    "type": "Undead",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Healing"
+    ]
+  },
+  {
+    "name": "Infested Drifter",
+    "key": "InfestedDrifter",
+    "type": "Undead",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Healing"
+    ]
+  },
+  {
+    "name": "Goblinator",
+    "key": "Goblinator",
+    "type": "Goblin",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Goblineer",
+    "key": "Goblineer",
+    "type": "Goblin",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Gobringer",
+    "key": "Gobringer",
+    "type": "Goblin",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Physical"
+    ]
+  },
+  {
+    "name": "Ympkin",
+    "key": "Ympkin",
+    "type": "Goblin",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Plaspapa",
+    "key": "Plaspapa",
+    "type": "Blob",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Exploding"
+    ]
+  },
+  {
+    "name": "Plasmama",
+    "key": "Plasmama",
+    "type": "Blob",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Exploding"
+    ]
+  },
+  {
+    "name": "Little Marvel Blue",
+    "key": "LittleMarvelBlue",
+    "type": "Plant",
+    "strongAgainst": [
+      "Water",
+      "Earth",
+      "Piercing"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Slashing",
+      "Exploding"
+    ]
+  },
+  {
+    "name": "Little Marvel Red",
+    "key": "LittleMarvelRed",
+    "type": "Plant",
+    "strongAgainst": [
+      "Water",
+      "Earth",
+      "Piercing"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Slashing",
+      "Exploding"
+    ]
+  },
+  {
+    "name": "Little Marvel Yellow",
+    "key": "LittleMarvelYellow",
+    "type": "Plant",
+    "strongAgainst": [
+      "Water",
+      "Earth",
+      "Piercing"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Slashing",
+      "Exploding"
+    ]
+  },
+  {
+    "name": "Thunder Djinn",
+    "key": "ThunderDjinn",
+    "type": "Elemental",
+    "strongAgainst": [
+      "Electric"
+    ],
+    "weakAgainst": [
+      "Earth"
+    ]
+  },
+  {
+    "name": "Cherby Poison",
+    "key": "CherbyPoison",
+    "type": "Beast",
+    "strongAgainst": [
+      "Earth",
+      "Electric"
+    ],
+    "weakAgainst": [
+      "Physical"
+    ]
+  },
+  {
+    "name": "Ice Chompino",
+    "key": "IceChompino",
+    "type": "Plant",
+    "strongAgainst": [
+      "Ice",
+      "Water",
+      "Earth",
+      "Piercing"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Slashing",
+      "Exploding"
+    ]
+  },
+  {
+    "name": "Nafnlaus",
+    "key": "NafnlausBlue",
+    "type": "Undead",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "None"
+    ]
+  },
+  {
+    "name": "Nafnlaus",
+    "key": "NafnlausRegular",
+    "type": "Undead",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Healing"
+    ]
+  },
+  {
+    "name": "Coast Beetle",
+    "key": "CoastBeetle",
+    "type": "Insect",
+    "strongAgainst": [
+      "Water"
+    ],
+    "weakAgainst": [
+      "Electric"
+    ]
+  },
+  {
+    "name": "Giga Stag",
+    "key": "GigaStag",
+    "type": "Insect",
+    "strongAgainst": [
+      "None"
+    ],
+    "weakAgainst": [
+      "Piercing",
+      "Crushing"
+    ]
+  },
+  {
+    "name": "Mushrima",
+    "key": "Mushrima",
+    "type": "Plant",
+    "strongAgainst": [
+      "Water",
+      "Earth",
+      "Piercing"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Slashing",
+      "Exploding"
+    ]
+  }
+]
