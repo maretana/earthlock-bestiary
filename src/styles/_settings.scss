@@ -1,6 +1,10 @@
 /* Shared variables */
 $beast-card-width: 125px;
-$min-side-padding: 10px;
+$min-side-padding: 15px;
+$double-side-padding: 2 * $min-side-padding;
 
 /* Breakpoints */
-$min-mobile-large: (3 * $beast-card-width) + $min-side-padding;
+$three-cards-width: (3 * $beast-card-width) + $double-side-padding;
+$four-cards-width: (4 * $beast-card-width) + $double-side-padding;
+$five-cards-width: (5 * $beast-card-width) + $double-side-padding;
+$six-cards-width: (6 * $beast-card-width) + $double-side-padding;
