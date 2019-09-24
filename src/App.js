@@ -12,8 +12,7 @@ function App () {
           return (
             <li className='bestiary-item' key={beast.key}>
               <BeastCard beast={beast} />
-            </li>
-          )
+            </li>)
         })}
       </ol>
     </div>

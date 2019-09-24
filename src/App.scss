@@ -1,6 +1,21 @@
+@import './styles/settings';
+
 .App {
   display: block;
   background-color: #112a62;
   box-shadow: inset 0 0 150px black;
-  
+}
+
+.bestiary {
+  margin: 0 auto;
+  padding: 15px $min-side-padding;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  width: 2 * $beast-card-width;
+
+  @media screen and (min-width: $min-mobile-large) {
+    width: 3 * $beast-card-width;
+  }
 }

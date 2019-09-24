@@ -1,0 +1,6 @@
+/* Shared variables */
+$beast-card-width: 125px;
+$min-side-padding: 10px;
+
+/* Breakpoints */
+$min-mobile-large: (3 * $beast-card-width) + $min-side-padding;
