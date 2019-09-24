@@ -1,5 +1,7 @@
 @import './styles/settings';
 
+$double-side-padding: 2 * $min-side-padding;
+
 .App {
   display: block;
   background-color: #112a62;
@@ -13,9 +15,9 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
-  width: 2 * $beast-card-width;
+  width: (2 * $beast-card-width) + $double-side-padding;
 
   @media screen and (min-width: $min-mobile-large) {
-    width: 3 * $beast-card-width;
+    width: (3 * $beast-card-width) + $double-side-padding;
   }
 }
