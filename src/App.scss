@@ -8,26 +8,26 @@
 
 .bestiary {
   margin: 0 auto;
-  padding: 15px $min-side-padding;
+  padding: 20px $min-side-padding;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
   width: (2 * $beast-card-width) + $double-side-padding;
 
-  @media screen and (min-width: $three-cards-width) {
+  @media screen and (min-width: $three-cards-width + 1) {
     width: $three-cards-width;
   }
 
-  @media screen and (min-width: $four-cards-width) {
+  @media screen and (min-width: $four-cards-width + 1) {
     width: $four-cards-width;
   }
 
-  @media screen and (min-width: $five-cards-width) {
+  @media screen and (min-width: $five-cards-width + 1) {
     width: $five-cards-width;
   }
 
-  @media screen and (min-width: $six-cards-width) {
+  @media screen and (min-width: $six-cards-width + 1) {
     width: $six-cards-width;
   }
 }

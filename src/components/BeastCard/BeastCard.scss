@@ -2,7 +2,7 @@
 
 .beast-card {
     width: $beast-card-width;
-    border: 12px solid #3f3d31;
+    border: 12px solid $beast-card-border-color;
     box-shadow: 0 0 1px black;
 
     &__avatar {
