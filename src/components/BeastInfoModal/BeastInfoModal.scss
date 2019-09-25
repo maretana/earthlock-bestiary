@@ -7,13 +7,74 @@
   right: 0;
   bottom: 0;
   left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .beast-info-modal-content {
-  background-color: white;
+  font-weight: 700;
+  font-size: 18px;
+  background-color: darkblue;
+  margin: 0 15px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100%;
+
+  @media screen and (min-width: $four-cards-width) {
+    width: 80%;
+    max-width: $four-cards-width;
+  }
+}
+
+.beast-info-image {
+  margin-right: 3.2%;
+
+  @media screen and (min-width: $three-cards-width) {
+    margin-right: 6.4%;
+  }
+
+  @media screen and (min-width: $four-cards-width) {
+    margin-right: 9.6%;
+  }
+
+  @media screen and (min-width: $five-cards-width) {
+    margin-right: 12.8%;
+  }
+
+  @media screen and (min-width: $six-cards-width) {
+    margin-right: 16%;
+  }
 }
 
 .beast-info-list {
   list-style: disc;
   margin-left: 1em;
+}
+
+.beast-info-label {
+  display: block;
+  color: white;
+  margin-bottom: 0.4em;
+
+  &.--name {
+    font-size: 26px;
+    margin-bottom: .5em;
+  }
+}
+
+.beast-info-text {
+  color: gray;
+}
+
+.beast-info-type {
+  margin-bottom: 1.5em;
+}
+
+.beast-info-list-container {
+  &.--strong-against {
+    margin-bottom: 1.5em;
+  }
 }

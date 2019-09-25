@@ -10,7 +10,8 @@ function BeastInfoListItem ({ item }) {
 
 export default class BeastInfoList extends React.PureComponent {
   render () {
-    const { list, containerClassName, label } = this.props
+    const { list, modifier, label } = this.props
+    const containerClassName = `beast-info-list-container --${modifier}`
     return (
       <div className={containerClassName}>
         <span className='beast-info-label'>{label}</span>

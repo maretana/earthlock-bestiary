@@ -1,5 +1,6 @@
 * {
 	box-sizing: border-box;
+	font-family: 'Muli', sans-serif;
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -49,4 +50,8 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
 }
