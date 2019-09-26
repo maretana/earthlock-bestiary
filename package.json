@@ -17,7 +17,6 @@
     "lint": "npx standard --fix",
     "predeploy": "npm run build",
     "deploy": "npx gh-pages -d build"
-    }
   },
   "eslintConfig": {
     "extends": "react-app"
