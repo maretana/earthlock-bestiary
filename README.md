@@ -1,68 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Available Scripts
+# Motivation
+This tool was created on my spare time to have the ___Earthlock: Festival of Fire___ bestiary always available while playing, specifically during a battle.
 
-In the project directory, you can run:
+The idea was to use it on my phone but this site is fully responsive and can be used in any number of devices. This is meant to replicate the interface of the game and only provide the information the actual bestiary gives you. For more details and locations of the enemies, you can search for other guides online.
 
-### `npm start`
+# Tech stack
+These are the technlogies I'm using for this tool. This project was a good practice with them.
+* __React JS__: I'm using react to tacke advantage of the reusable components and ease of handling JS events. 
+* __Create React App__: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* __Sass__: All styling done with Sass. Mainly because of shared variables and scoping.
+* __Eric Meyer's Reset 2.0__: Good ol' CSS reset found [here].(https://meyerweb.com/eric/tools/css/reset/)
+* __Standard JS__: My favorite code style in javascript land.
+* __gh-pages__: For publishing on GitHub Pages. 
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Credits
+Here's a few external resources I'm using:
+* __Earthlock: Festival of Magic__: My inspiration for making this in the first place. I recommend [checking it out](https://www.snowcastlegames.com/earthlock).
+* __Earthlock Fandom__: I got the avatar images from https://earthlock.fandom.com/wiki/Bestiary
+* __Google Fonts__: Open Sans font courtesy from Google Fonts.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+__*Work in progress. There's still a few features left until I consider this complete. Will update when ready.__
