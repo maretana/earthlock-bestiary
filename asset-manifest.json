@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/earthlock-bestiary/static/css/main.7de46b1c.chunk.css",
+    "main.js": "/earthlock-bestiary/static/js/main.5363d827.chunk.js",
+    "main.js.map": "/earthlock-bestiary/static/js/main.5363d827.chunk.js.map",
+    "runtime-main.js": "/earthlock-bestiary/static/js/runtime-main.b1ed72a7.js",
+    "runtime-main.js.map": "/earthlock-bestiary/static/js/runtime-main.b1ed72a7.js.map",
+    "static/js/2.9ac30ed3.chunk.js": "/earthlock-bestiary/static/js/2.9ac30ed3.chunk.js",
+    "static/js/2.9ac30ed3.chunk.js.map": "/earthlock-bestiary/static/js/2.9ac30ed3.chunk.js.map",
+    "index.html": "/earthlock-bestiary/index.html",
+    "precache-manifest.00c4eac1cbedfa54d2164e69bc38e17d.js": "/earthlock-bestiary/precache-manifest.00c4eac1cbedfa54d2164e69bc38e17d.js",
+    "service-worker.js": "/earthlock-bestiary/service-worker.js",
+    "static/css/main.7de46b1c.chunk.css.map": "/earthlock-bestiary/static/css/main.7de46b1c.chunk.css.map"
+  }
+}
