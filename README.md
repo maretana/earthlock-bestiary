@@ -10,7 +10,7 @@ These are the technlogies I'm using for this tool. This project was a good pract
 * __React JS__: I'm using react to tacke advantage of the reusable components and ease of handling JS events. 
 * __Create React App__: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 * __Sass__: All styling done with Sass. Mainly because of shared variables and scoping.
-* __Eric Meyer's Reset 2.0__: Good ol' CSS reset found [here].(https://meyerweb.com/eric/tools/css/reset/)
+* __Eric Meyer's Reset 2.0__: Good ol' CSS reset found [here](https://meyerweb.com/eric/tools/css/reset/).
 * __Standard JS__: My favorite code style in javascript land.
 * __gh-pages__: For publishing on GitHub Pages. 
 
