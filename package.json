@@ -2,7 +2,7 @@
   "name": "earthlock-bestiary",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://maretana.github.io/earthlock-bestiary",
+  "homepage": "https://maretana.github.io/earthlock-bestiary",
   "dependencies": {
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
@@ -14,7 +14,10 @@
     "build": "npm run lint && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "npx standard --fix"
+    "lint": "npx standard --fix",
+    "predeploy": "npm run build",
+    "deploy": "npx gh-pages -d build"
+    }
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,6 +36,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
+    "gh-pages": "^2.1.1",
     "standard": "^14.3.1"
   },
   "standard": {
