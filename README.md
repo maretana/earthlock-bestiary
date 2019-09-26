@@ -1,5 +1,7 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+__Live Tool Website__: https://maretana.github.io/earthlock-bestiary/
+
 # Motivation
 This tool was created on my spare time to have the ___Earthlock: Festival of Fire___ bestiary always available while playing, specifically during a battle.
 
