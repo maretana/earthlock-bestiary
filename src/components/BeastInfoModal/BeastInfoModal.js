@@ -15,8 +15,8 @@ export default class BeastInfoModal extends React.PureComponent {
   handleCloseModalAction = evt => {
     if (evt.target.id === 'beastInfoModal') {
       evt.preventDefault()
-      const { setModalBeast } = this.props
-      setModalBeast(null)
+      const { setActiveBeast } = this.props
+      setActiveBeast(null)
     }
   }
 

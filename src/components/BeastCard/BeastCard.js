@@ -4,8 +4,8 @@ import './BeastCard.scss'
 
 export default class BeastCard extends React.PureComponent {
   handleOnClick = evt => {
-    const { setModalBeast, beast } = this.props
-    setModalBeast(beast)
+    const { setActiveBeast, beast } = this.props
+    setActiveBeast(beast)
   }
 
   render () {

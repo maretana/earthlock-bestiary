@@ -1,35 +1,28 @@
 import React from 'react'
 import bestiary from './data/bestiary.json'
-import BeastCard from './components/BeastCard'
 import BeastInfoModal from './components/BeastInfoModal'
+import Bestiary from './components/Bestiary'
 
 import './App.scss'
 
 export default class App extends React.PureComponent {
   state = {
-    modalBeast: null
+    activeBeast: null
   }
 
-  setModalBeast = modalBeast => {
+  setActiveBeast = activeBeast => {
     this.setState({
-      modalBeast
+      activeBeast
     })
   }
 
   render () {
     return (
       <div className='App'>
-        {this.state.modalBeast && (
-          <BeastInfoModal beast={this.state.modalBeast} setModalBeast={this.setModalBeast} />
+        {this.state.activeBeast && (
+          <BeastInfoModal beast={this.state.activeBeast} setActiveBeast={this.setActiveBeast} />
         )}
-        <ol className='bestiary'>
-          {bestiary.map(beast => {
-            return (
-              <li className='bestiary-item' key={beast.key}>
-                <BeastCard beast={beast} setModalBeast={this.setModalBeast} />
-              </li>)
-          })}
-        </ol>
+        <Bestiary bestiary={bestiary} setActiveBeast={this.setActiveBeast} />
       </div>
     )
   }
