@@ -1,9 +1,7 @@
 @import '../../styles/settings';
 
 .bestiary-wrapper {
-  $beast-info-desktop-separation: 70px;
-  $beast-info-content-total-width: $beast-info-desktop-separation + $beast-info-desktop-width;
-  @media screen and (min-width: $six-cards-width + $beast-info-content-total-width) {
+  @media screen and (min-width: $beastiary-min-desktop-width) {
     padding-right: $beast-info-content-total-width;
   }
 }

@@ -5,6 +5,14 @@
     border: 12px solid $beast-card-border-color;
     box-shadow: 0 0 1px black;
 
+    &.--active {
+        @media screen and (min-width: $beastiary-min-desktop-width) {
+            border-color: $beast-avatar-active-border-color;
+            border-radius: 2px;
+            box-shadow: none;
+        }
+    }
+
     &__avatar {
         display: block;
         width: 100%;
