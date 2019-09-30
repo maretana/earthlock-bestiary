@@ -18,11 +18,12 @@
   background-color: #1e45a9;
   box-shadow: inset 0 70px 150px darken(#1e45a9, 28);
   margin: 0 15px;
-  padding: 10px;
+  padding: 10px 15px;
   display: flex;
   flex-direction: row;
   align-items: center;
   width: 100%;
+  border-radius: 5px;
 
   @media screen and (min-width: $four-cards-width) {
     width: 80%;
@@ -30,7 +31,7 @@
   }
 }
 
-.beast-info-image {
+.beast-info-modal-image {
   width: $beast-card-width;
   border: 8px solid #fdf5b3;
   border-radius: 2px;
@@ -50,35 +51,5 @@
 
   @media screen and (min-width: $six-cards-width) {
     margin-right: 16%;
-  }
-}
-
-.beast-info-list {
-  list-style: disc;
-  margin-left: 1em;
-}
-
-.beast-info-label {
-  display: block;
-  color: white;
-  margin-bottom: 0.4em;
-
-  &.--name {
-    font-size: 26px;
-    margin-bottom: .5em;
-  }
-}
-
-.beast-info-text {
-  color: #adb0b2;
-}
-
-.beast-info-type {
-  margin-bottom: 1.5em;
-}
-
-.beast-info-list-container {
-  &.--strong-against {
-    margin-bottom: 1.5em;
   }
 }
