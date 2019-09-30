@@ -9,9 +9,13 @@ export default class BeastCard extends React.PureComponent {
   }
 
   render () {
-    const { beast } = this.props
+    const { beast, isActive } = this.props
+    let wrapperClassName = 'beast-card'
+    if (isActive) {
+      wrapperClassName += ' --active'
+    }
     return (
-      <div className='beast-card' onMouseEnter={this.handleBeastSelection}>
+      <div className={wrapperClassName} onMouseEnter={this.handleBeastSelection}>
         <button
           type='button'
           className='beast-card__button'

@@ -19,12 +19,13 @@ export default class App extends React.PureComponent {
 
   render () {
     const needsModal = window.innerWidth < 1090
+    const activeBeastKey = this.state.activeBeast && this.state.activeBeast.key
     return (
       <div className='App'>
         {needsModal && this.state.activeBeast && (
           <BeastInfoModal beast={this.state.activeBeast} setActiveBeast={this.setActiveBeast} />
         )}
-        <Bestiary bestiary={bestiary} setActiveBeast={this.setActiveBeast} />
+        <Bestiary bestiary={bestiary} setActiveBeast={this.setActiveBeast} activeBeastKey={activeBeastKey} />
         {!needsModal && this.state.activeBeast && (
           <div className='beast-info-desktop-container'>
             <BeastInfo beast={this.state.activeBeast} />

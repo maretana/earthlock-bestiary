@@ -9,9 +9,7 @@
         border-width: 14px;
     }
 
-    // Using focus-within for accessibility, though it might not be supported on all browsers yet.
-    &:hover,
-    &:focus-within {
+    &.--active {
         @media screen and (min-width: $beastiary-min-desktop-width) {
             border-color: $beast-avatar-active-border-color;
             border-radius: 2px;
