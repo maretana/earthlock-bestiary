@@ -14,7 +14,10 @@ These are the technlogies I'm using for this tool. This project was a good pract
 * __Sass__: All styling done with Sass. Mainly because of shared variables and scoping.
 * __Eric Meyer's Reset 2.0__: Good ol' CSS reset found [here](https://meyerweb.com/eric/tools/css/reset/).
 * __Standard JS__: My favorite code style in javascript land.
-* __gh-pages__: For publishing on GitHub Pages. 
+* __gh-pages__: For publishing on GitHub Pages.
+
+# Accessibility
+You can navigate through the bestiary using TAB navigation on a desktop browser.
 
 # Credits
 Here's a few external resources I'm using:
