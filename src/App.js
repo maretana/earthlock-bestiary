@@ -26,7 +26,9 @@ export default class App extends React.PureComponent {
         )}
         <Bestiary bestiary={bestiary} setActiveBeast={this.setActiveBeast} />
         {!needsModal && this.state.activeBeast && (
-          <BeastInfo beast={this.state.activeBeast} />
+          <div className='beast-info-desktop-container'>
+            <BeastInfo beast={this.state.activeBeast} />
+          </div>
         )}
       </div>
     )

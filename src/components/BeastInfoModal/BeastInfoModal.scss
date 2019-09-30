@@ -13,10 +13,8 @@
 }
 
 .beast-info-modal-content {
-  font-weight: 700;
-  font-size: 18px;
-  background-color: #1e45a9;
-  box-shadow: inset 0 70px 150px darken(#1e45a9, 28);
+  background-color: $background-color;
+  box-shadow: inset 0 70px 150px darken($background-color, 28);
   margin: 0 15px;
   padding: 10px 15px;
   display: flex;

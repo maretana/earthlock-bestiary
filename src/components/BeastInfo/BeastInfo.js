@@ -7,7 +7,7 @@ export default class BeastInfo extends React.PureComponent {
   render () {
     const { beast } = this.props
     return (
-      <div className='beast-info-text-wrapper'>
+      <div className='beast-info-wrapper'>
         <p className='beast-info-label --name'>
           {beast.name}
         </p>

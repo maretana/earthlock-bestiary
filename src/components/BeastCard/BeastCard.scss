@@ -5,7 +5,13 @@
     border: 12px solid $beast-card-border-color;
     box-shadow: 0 0 1px black;
 
-    &.--active {
+    @media screen and  (min-width: $beastiary-min-desktop-width) {
+        border-width: 14px;
+    }
+
+    // Using focus-within for accessibility, though it might not be supported on all browsers yet.
+    &:hover,
+    &:focus-within {
         @media screen and (min-width: $beastiary-min-desktop-width) {
             border-color: $beast-avatar-active-border-color;
             border-radius: 2px;
