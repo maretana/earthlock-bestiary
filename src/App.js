@@ -6,6 +6,11 @@ import Bestiary from './components/Bestiary'
 
 import './App.scss'
 
+/**
+ * Minimum width to show the bestiary with the description side by side.
+ */
+const MIN_FULL_DESKTOP_WIDTH = 1090
+
 export default class App extends React.PureComponent {
   state = {
     activeBeast: null
@@ -17,8 +22,16 @@ export default class App extends React.PureComponent {
     })
   }
 
+  componentDidMount () {
+    if (window.innerWidth >= MIN_FULL_DESKTOP_WIDTH) {
+      this.setState({
+        activeBeast: bestiary[0]
+      })
+    }
+  }
+
   render () {
-    const needsModal = window.innerWidth < 1090
+    const needsModal = window.innerWidth < MIN_FULL_DESKTOP_WIDTH
     const activeBeastKey = this.state.activeBeast && this.state.activeBeast.key
     return (
       <div className='App'>
