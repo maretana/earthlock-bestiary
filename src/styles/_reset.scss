@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Open Sans', sans-serif !important;
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -52,6 +52,8 @@ table {
 	border-spacing: 0;
 }
 
-body {
-	font-family: 'Open Sans', sans-serif;
+/* Custom Element styles */
+
+html, body {
+	height: 100%;
 }

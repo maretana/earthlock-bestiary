@@ -50,12 +50,12 @@ export default class App extends React.PureComponent {
           <BeastInfoModal beast={this.state.activeBeast} setActiveBeast={this.setActiveBeast} />
         )}
 
-        <SearchBar searchFilter={this.state.searchFilter} setSearchFilter={this.setSearchFilter} />
-
         <Bestiary
           bestiary={filteredBestiary}
           setActiveBeast={this.setActiveBeast}
           activeBeastKey={activeBeastKey}
+          searchFilter={this.state.searchFilter}
+          setSearchFilter={this.setSearchFilter}
         />
 
         {!needsModal && this.state.activeBeast && (

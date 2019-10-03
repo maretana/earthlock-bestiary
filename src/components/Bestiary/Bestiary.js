@@ -1,13 +1,15 @@
 import React from 'react'
 import BeastCard from '../BeastCard'
+import SearchBar from '../SearchBar'
 
 import './Bestiary.scss'
 
 export default class Bestiary extends React.PureComponent {
   render () {
-    const { bestiary, setActiveBeast, activeBeastKey } = this.props
+    const { bestiary, setActiveBeast, activeBeastKey, searchFilter, setSearchFilter } = this.props
     return (
       <div className='bestiary-wrapper'>
+        <SearchBar searchFilter={searchFilter} setSearchFilter={setSearchFilter} />
         <ol className='bestiary'>
           {bestiary.map(beast => {
             return (

@@ -1,1 +1,42 @@
 @import '../../styles/settings';
+
+.search-filter {
+  margin: 0 auto;
+  padding-top: 20px;
+  width: 2 * $beast-card-width;
+
+  @media screen and (min-width: $three-cards-width + 1) {
+    width: $three-cards-width;
+  }
+
+  @media screen and (min-width: $four-cards-width + 1) {
+    width: $four-cards-width;
+  }
+
+  @media screen and (min-width: $five-cards-width + 1) {
+    width: $five-cards-width;
+  }
+
+  @media screen and (min-width: $six-cards-width + 1) {
+    width: $six-cards-width;
+  }
+}
+
+.search-input {
+  background: none;
+  color: white;
+  width: 100%;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: 18px;
+
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 3pt 2pt $beast-avatar-active-border-color;
+  }
+
+  &::placeholder {
+    color: rgba(white, 0.4)
+  }
+}

@@ -3,10 +3,6 @@
 .beast-info-wrapper {
   font-weight: 700;
   font-size: 18px;
-  
-  @media screen and (min-width: $beastiary-min-desktop-width) {
-    letter-spacing: 1px;
-  }
 }
 
 .beast-info-list {
