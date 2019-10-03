@@ -5,7 +5,6 @@ import BeastInfo from './components/BeastInfo'
 import Bestiary from './components/Bestiary'
 
 import './App.scss'
-import SearchBar from './components/SearchBar/SearchBar.js'
 
 /**
  * Minimum width to show the bestiary with the description side by side.
