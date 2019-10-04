@@ -5,6 +5,7 @@ import BeastInfo from './components/BeastInfo'
 import Bestiary from './components/Bestiary'
 
 import './App.scss'
+import Footer from './components/Footer/Footer.js'
 
 /**
  * Minimum width to show the bestiary with the description side by side.
@@ -62,6 +63,8 @@ export default class App extends React.PureComponent {
             <BeastInfo beast={this.state.activeBeast} />
           </div>
         )}
+
+        <Footer />
       </div>
     )
   }
