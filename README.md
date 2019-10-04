@@ -24,5 +24,3 @@ Here's a few external resources I'm using:
 * __Earthlock: Festival of Magic__: My inspiration for making this in the first place. I recommend [checking it out](https://www.snowcastlegames.com/earthlock).
 * __Earthlock Fandom__: I got the avatar images from https://earthlock.fandom.com/wiki/Bestiary
 * __Google Fonts__: Open Sans font courtesy from Google Fonts.
-
-__*Work in progress. There's still a few features left until I consider this complete. Will update when ready.__
