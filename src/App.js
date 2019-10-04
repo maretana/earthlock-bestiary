@@ -47,10 +47,6 @@ export default class App extends React.PureComponent {
     })
     return (
       <div className='App'>
-        {needsModal && this.state.activeBeast && (
-          <BeastInfoModal beast={this.state.activeBeast} setActiveBeast={this.setActiveBeast} />
-        )}
-
         <Bestiary
           bestiary={filteredBestiary}
           setActiveBeast={this.setActiveBeast}
@@ -58,6 +54,10 @@ export default class App extends React.PureComponent {
           searchFilter={this.state.searchFilter}
           setSearchFilter={this.setSearchFilter}
         />
+
+        {needsModal && this.state.activeBeast && (
+          <BeastInfoModal beast={this.state.activeBeast} setActiveBeast={this.setActiveBeast} />
+        )}
 
         {!needsModal && this.state.activeBeast && (
           <div className='beast-info-desktop-container'>
