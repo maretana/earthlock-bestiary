@@ -1,6 +1,8 @@
 @import '../../styles/settings';
 
 .bestiary-wrapper {
+  flex-grow: 1;
+  
   @media screen and (min-width: $beastiary-min-desktop-width) {
     padding-right: $beast-info-content-total-width;
   }
