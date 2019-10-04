@@ -26,7 +26,8 @@ export default class App extends React.PureComponent {
 
   setSearchFilter = newFilter => {
     this.setState({
-      searchFilter: newFilter
+      searchFilter: newFilter,
+      activeBeast: null
     })
   }
 
