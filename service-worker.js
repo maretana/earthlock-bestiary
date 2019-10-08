@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/earthlock-bestiary/precache-manifest.5686ccd5309f4c1b2165f3fb520ad240.js"
+  "/earthlock-bestiary/precache-manifest.75c99464e8b5a355b54a8cdf9262f1cd.js"
 );
 
 self.addEventListener('message', (event) => {

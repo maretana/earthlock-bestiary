@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "617aa49ed9c365a9f369d32b563cd2fe",
+    "revision": "2f86f15648115465db97672762706d6a",
     "url": "/earthlock-bestiary/index.html"
   },
   {
-    "revision": "633a9abd219ea8c78dac",
+    "revision": "ac859ddf8075d3aeda4b",
     "url": "/earthlock-bestiary/static/css/main.21b5c2ea.chunk.css"
   },
   {
-    "revision": "7c2f38a61a6abf06448c",
-    "url": "/earthlock-bestiary/static/js/2.6d07ba9e.chunk.js"
+    "revision": "e48695341de98b427d4e",
+    "url": "/earthlock-bestiary/static/js/2.24570597.chunk.js"
   },
   {
-    "revision": "633a9abd219ea8c78dac",
-    "url": "/earthlock-bestiary/static/js/main.cb5cf602.chunk.js"
+    "revision": "ac859ddf8075d3aeda4b",
+    "url": "/earthlock-bestiary/static/js/main.a54d93c3.chunk.js"
   },
   {
     "revision": "d1d236520a39088a645e",
