@@ -3,7 +3,7 @@
 __Live Tool Website__: https://maretana.github.io/earthlock-bestiary/
 
 # Motivation
-This tool was created on my spare time to have the ___Earthlock: Festival of Fire___ bestiary always available while playing, specifically during a battle.
+This tool was created on my spare time to have the ___Earthlock___ bestiary always available while playing, specifically during a battle.
 
 The idea was to use it on my phone but this site is fully responsive and can be used in any number of devices. This is meant to replicate the interface of the game and only provide the information the actual bestiary gives you. For more details and locations of the enemies, you can search for other guides online.
 
@@ -21,6 +21,6 @@ You can navigate through the bestiary using TAB navigation on a desktop browser.
 
 # Credits
 Here's a few external resources I'm using:
-* __Earthlock: Festival of Magic__: My inspiration for making this in the first place. I recommend [checking it out](https://www.snowcastlegames.com/earthlock).
+* __Earthlock__: My inspiration for making this in the first place. I recommend [checking it out](https://www.snowcastlegames.com/earthlock).
 * __Earthlock Fandom__: I got the avatar images from https://earthlock.fandom.com/wiki/Bestiary
 * __Google Fonts__: Open Sans font courtesy from Google Fonts.
